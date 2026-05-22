@@ -3,7 +3,7 @@
 # 🤖 Awesome AI Tools
 
 **A meticulously curated, community-driven directory of the best AI tools,
-models, frameworks, and resources — updated for 2025.**
+models, frameworks, and resources — updated for 2026.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
