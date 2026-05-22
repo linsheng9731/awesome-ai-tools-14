@@ -9,12 +9,12 @@ models, frameworks, and resources — updated for 2025.**
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last Updated](https://img.shields.io/badge/Updated-May%202025-blue.svg)]()
 [![Tools Count](https://img.shields.io/badge/Tools-300%2B-orange.svg)]()
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/awesome-ai-tools?style=social)](https://github.com/your-username/awesome-ai-tools/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/your-username/awesome-ai-tools?style=social)](https://github.com/your-username/awesome-ai-tools/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/shahedbd/awesome-ai-tools?style=social)](https://github.com/shahedbd/awesome-ai-tools/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shahedbd/awesome-ai-tools?style=social)](https://github.com/shahedbd/awesome-ai-tools/network/members)
 
 *If this list saves you time, please ⭐ star it — it helps others find it too.*
 
-[**Explore by Category ↓**](#contents) · [**Submit a Tool**](CONTRIBUTING.md) · [**Report an Issue**](https://github.com/your-username/awesome-ai-tools/issues)
+[**Explore by Category ↓**](#contents) · [**Submit a Tool**](CONTRIBUTING.md) · [**Report an Issue**](https://github.com/shahedbd/awesome-ai-tools/issues)
 
 </div>
 
