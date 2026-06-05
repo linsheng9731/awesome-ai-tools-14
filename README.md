@@ -426,6 +426,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 | [AI/ML API](https://aimlapi.com) | 100+ models | Unified API for 100+ models `#free` |
 | [Mistral API](https://mistral.ai/api) | Mistral, Mixtral | European provider, strong multilingual |
 | [Perplexity API](https://www.perplexity.ai/api) | Sonar models | Web-grounded, real-time responses |
+| [CoderPlan](https://coderplan.ai) | Claude, GPT, Gemini, DeepSeek | OpenAI-compatible gateway for AI coding tools `#free` |
 
 ### Vector Databases
 
