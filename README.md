@@ -603,6 +603,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Anyword](https://anyword.com) — Predictive performance scoring for marketing copy before you publish.
 - [Phrasee](https://phrasee.co) — AI-optimized email subject lines and marketing copy for enterprise teams.
 - [AdCreative.ai](https://adcreative.ai) — Generate conversion-optimized ad creatives at scale. `#free`
+- [CreatorSkills](https://creatorskills.co) — Marketplace of 30+ downloadable AI skills for content creators covering YouTube scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ### SEO & Content Strategy
 
