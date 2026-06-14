@@ -282,6 +282,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Photoroom](https://photoroom.com) — Professional product and portrait photos generated from your phone. `#free`
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
+- [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images. 
 
 ### Specialized Image Tools
 
