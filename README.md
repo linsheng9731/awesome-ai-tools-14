@@ -7,8 +7,8 @@ models, frameworks, and resources — updated for 2026.**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![Last Updated](https://img.shields.io/badge/Updated-May%202025-blue.svg)]()
-[![Tools Count](https://img.shields.io/badge/Tools-300%2B-orange.svg)]()
+[![Last Updated](https://img.shields.io/badge/Updated-June%202026-blue.svg)]()
+[![Tools Count](https://img.shields.io/badge/Tools-304%2B-orange.svg)]()
 [![GitHub Stars](https://img.shields.io/github/stars/shahedbd/awesome-ai-tools?style=social)](https://github.com/shahedbd/awesome-ai-tools/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/shahedbd/awesome-ai-tools?style=social)](https://github.com/shahedbd/awesome-ai-tools/network/members)
 
@@ -33,7 +33,7 @@ Unlike generic AI directories, every entry here is:
 
 ---
 
-## 🆕 What's New — May 2025
+## 🆕 What's New — June 2026
 
 | Added | Category |
 |---|---|
@@ -43,6 +43,10 @@ Unlike generic AI directories, every entry here is:
 | Model Context Protocol (MCP) section | Developer Infrastructure |
 | Reve Image, Flux.1 (image generation) | AI Image Generation |
 | Google Veo 2, Runway Gen-4 | AI Video Generation |
+| Google Stitch (Stitch 2.0) | AI Design & Creative — UI/UX Design |
+| Google Flow (Veo 3.1 powered) | AI Video Generation |
+| Higgsfield | AI Video Generation |
+| Manychat | AI Customer Service |
 
 ---
 
@@ -282,7 +286,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Photoroom](https://photoroom.com) — Professional product and portrait photos generated from your phone. `#free`
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
-- [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images. 
+- [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images.
 
 ### Specialized Image Tools
 
@@ -301,6 +305,8 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - ⭐ [Sora](https://sora.com) — OpenAI's text-to-video model. Cinematic quality, up to 20 seconds at 1080p.
 - ⭐ [Runway Gen-4](https://runwayml.com) — Professional-grade video generation and editing. Industry standard for filmmakers.
 - ⭐ [Google Veo 2](https://deepmind.google/technologies/veo/) — Google's high-fidelity video generation with strong physics simulation.
+- 🔥 [Google Flow](https://labs.google/fx/tools/flow) — Google's AI filmmaking studio built exclusively on DeepMind's most advanced models: Veo (video), Imagen (images), and Gemini (language). Designed for cinematic storytelling with native audio generation via Veo 3.1. Supports scene-level narrative control and immersive sound-visual pairing. `#free`
+- 🔥 [Higgsfield](https://higgsfield.ai) — Cinematic AI video generation platform with a strong focus on character consistency and fine-grained motion control. Popular among creators for producing high-quality, stylized short-form video content with controllable camera movement.
 - [Kling AI](https://klingai.com) — Kuaishou's video model with excellent motion quality and longer clip support. `#free`
 - [Pika Labs](https://pika.art) — Quick, accessible video generation with intuitive style controls. `#free`
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) — Fast, high-quality video generation from text or image inputs. `#free`
@@ -571,6 +577,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 ### UI/UX Design
 
 - ⭐ [Figma AI](https://figma.com/ai) — AI-powered design suggestions, auto-layout, and content generation built into Figma.
+- 🔥 [Google Stitch](https://stitch.withgoogle.com) — Google Labs' "vibe design" tool that generates high-fidelity UI designs, multi-screen flows, and interactive prototypes from text prompts or image/sketch inputs. Powered by Gemini 2.5 Pro. Exports directly to Figma or as frontend code. `#free`
 - [Uizard](https://uizard.io) — Turn hand-drawn sketches and screenshots into editable UI designs. `#free`
 - [Galileo AI](https://usegalileo.ai) — Generate complete UI designs from text descriptions in seconds.
 - [Framer AI](https://framer.com) — Build and publish full websites with AI assistance. `#free`
@@ -641,6 +648,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Kustomer](https://kustomer.com) — AI-first CRM built specifically for customer service teams.
 - [Crisp](https://crisp.chat) — Shared inbox with AI chatbot and automation for small teams. `#free`
 - [Helpshift](https://helpshift.com) — AI-powered mobile customer support with in-app messaging.
+- [Manychat](https://manychat.com) — Conversational marketing and automation platform for Instagram DMs, WhatsApp, Facebook Messenger, and SMS. Uses AI to automate lead capture, customer replies, and sales funnels at scale. Widely adopted by e-commerce and creator businesses. `#free`
 
 ---
 
@@ -730,6 +738,8 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Promptfoo](https://promptfoo.dev) — Test, evaluate, and red-team prompts systematically. `#opensource` `#free`
 - [LangSmith](https://smith.langchain.com) — Prompt management with A/B testing and full tracing. `#free`
 - [Vellum](https://vellum.ai) — Prompt engineering, testing, and deployment platform for teams. `#free`
+
+
 - [PromptBase](https://promptbase.com) — Marketplace for buying and selling high-quality prompts.
 - [FlowGPT](https://flowgpt.com) — Community for sharing and discovering prompts across use cases. `#free`
 
@@ -866,4 +876,5 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
+
 
