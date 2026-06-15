@@ -509,6 +509,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [ToolHive](https://toolhive.io) — Find and deploy MCP servers with one click. `#free`
 - [Smithery](https://smithery.ai) — MCP server registry and marketplace for the community. `#free`
 - [mcp-use](https://github.com/mcp-use/mcp-use) — Open-source library to connect any LLM to MCP servers. `#opensource`
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - MCP server, API, and SDKs for X/Twitter data workflows, including tweet search, user lookup, follower export, monitors, HMAC webhooks, and write actions. `#opensource` `#api`
 
 ---
 
