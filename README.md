@@ -312,6 +312,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) — Fast, high-quality video generation from text or image inputs. `#free`
 - [Hailuo AI (MiniMax)](https://hailuoai.video) — Strong motion consistency and character animation. `#free`
 - [Pixverse](https://pixverse.ai) — Versatile video generation with effects and smooth transitions. `#free`
+- [ImagineClip](https://imagineclip.com) — AI video generator for fun clips, avatar videos, stylized scenes, and shareable social content. `#free`
 
 ### AI Video Editing & Production
 
@@ -876,5 +877,4 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
 
