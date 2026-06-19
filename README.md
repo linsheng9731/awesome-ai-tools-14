@@ -620,6 +620,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Semrush AI](https://semrush.com) — AI-powered SEO, content strategy, and competitive research.
 - [Clearbit](https://clearbit.com) — B2B data enrichment and lead intelligence platform.
 - [MarketMuse](https://marketmuse.com) — AI content strategy and topic authority platform.
+- [NotFair](https://github.com/nowork-studio/NotFair) — Open-source Claude Code skills for SEO, Google Ads, and Meta Ads. Connects to live account data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP. Covers site audits, keyword research, schema markup, wasted-spend detection, and creative fatigue analysis. `#opensource`
 
 ### Social Media
 
