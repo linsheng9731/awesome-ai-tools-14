@@ -587,6 +587,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Framer AI](https://framer.com) — Build and publish full websites with AI assistance. `#free`
 - [Locofy](https://locofy.ai) — Convert Figma designs to production-ready React/Next.js code. `#free`
 - [v0](https://v0.dev) — Generate React components and full UIs from text prompts. `#free`
+- [Roblox GUI Maker](https://robloxguimaker.dev) — Plan Roblox Studio ScreenGui layouts, HUDs, menus, and Lua UI starter-code ideas with AI. `#free`
 
 ### Graphic Design & Branding
 
